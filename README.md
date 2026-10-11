@@ -11,3 +11,4 @@ My name is Imran. I'm a Microsoft Dynamics NAV and Business Central enthusiast, 
 ## Find me
 
 Follow me on [Twitter/X](https://twitter.com/Tweetimrank) — [@Tweetimrank](https://twitter.com/Tweetimrank).
+[LinkedIn].(https://linkedin.com/in/khanimran-erp-softwareengineer)
