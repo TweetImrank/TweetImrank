@@ -4,9 +4,10 @@ My name is Imran. I'm a Microsoft Dynamics NAV and Business Central enthusiast, 
 
 ## GitHub stats
 
-[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=TweetImrank&show_icons=true)](https://github.com/TweetImrank)
+[![Imran's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TweetImrank&theme=github)](https://github.com/TweetImrank)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TweetImrank&layout=compact)](https://github.com/TweetImrank)
+[![Imran's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TweetImrank&theme=github)](https://github.com/TweetImrank)
+[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TweetImrank&theme=github)](https://github.com/TweetImrank)
 
 ## Find me
 
